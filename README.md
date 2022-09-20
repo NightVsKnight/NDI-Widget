@@ -1,3 +1,3 @@
 # NDI-Widget
 
-Deprecated; moved to https://github.com/swooby/QtNdiMonitorCapture/tree/main/lib
+Deprecated; moved to https://github.com/NightVsKnight/QtNdiMonitorCapture
